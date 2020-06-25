@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataCollector</string>
+    <string name="permittedChars">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ .-1234567890</string>
+</resources>
